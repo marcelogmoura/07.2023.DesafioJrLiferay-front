@@ -1,3 +1,9 @@
+
+O projeto BackEnd e detalhes estão no repositório:
+
+https://github.com/marcelogmoura/07.2023.DesafioJrLiferay-back
+
+
 # Todoapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
